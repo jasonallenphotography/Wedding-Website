@@ -18,6 +18,31 @@
   display: inline;
 }
 
+#main.jumbotron  {
+  background-image:url('../imgs/jumbotron.jpg');
+  min-height: 500px;
+  max-height: 854px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#amazon.jumbotron {
+  background-image:url('../imgs/amazon.jpg');
+  min-height: 500px;
+  max-height: 854px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#macys.jumbotron {
+  background-image:url('../imgs/macys.png');
+  min-height: 500px;
+  max-height: 854px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 .jumbotron {
   background-image:url('../imgs/jumbotron.jpg');
   min-height: 500px;
